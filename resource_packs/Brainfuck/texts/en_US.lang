@@ -1,0 +1,9 @@
+tile.concrete.white.name=Start
+tile.concrete.orange.name=>
+tile.concrete.magenta.name=<
+tile.concrete.lightBlue.name=+
+tile.concrete.yellow.name=-
+tile.concrete.lime.name=.
+tile.concrete.pink.name=,
+tile.concrete.gray.name=[
+tile.concrete.silver.name=]

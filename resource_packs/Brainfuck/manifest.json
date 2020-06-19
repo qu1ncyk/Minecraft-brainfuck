@@ -1,0 +1,18 @@
+{ 
+  "format_version": 2,
+  "header": {
+    "description": "Brainfuck",
+    "name": "Brainfuck",
+    "uuid": "29159bae-d277-42b1-8911-067ce88ece9a",
+    "version": [1, 0, 4],
+    "min_engine_version": [1, 14, 0]
+  },
+  "modules": [
+    {
+      "description": "Brainfuck",
+      "type": "resources",
+      "uuid": "936eed27-c772-40ba-90f8-f9ac60df6566",
+      "version": [1, 0, 4]
+    }
+  ]
+}
