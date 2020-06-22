@@ -12,7 +12,7 @@
       "description": "Brainfuck",
       "type": "resources",
       "uuid": "936eed27-c772-40ba-90f8-f9ac60df6566",
-      "version": [1, 0, 4]
+      "version": [1, 0, 0]
     }
   ]
 }
