@@ -8,7 +8,7 @@ execute @e[tag=instr_ptr] ~~~ detect ~~-1~ concrete 4 function bf/value_dec
 #-
 execute @e[tag=instr_ptr] ~~~ detect ~~-1~ concrete 5 function bf/print
 #.
-execute @e[tag=instr_ptr] ~~~ detect ~~-1~ concrete 6 function bf/...
+execute @e[tag=instr_ptr] ~~~ detect ~~-1~ concrete 6 function bf/ask_input
 #,
 execute @e[tag=instr_ptr] ~~~ detect ~~-1~ concrete 7 function bf/loop_start
 #[

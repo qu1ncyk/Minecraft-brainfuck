@@ -1,0 +1,2 @@
+function bf/pause
+tellraw @a {"rawtext": [{"text": "§l§6Input needed\n§r§eEnter input by typing:\n/scoreboard players set @a[tag=value] value <input>\nand then\n/function bf/input\n§l§6Note: §r§einstead of typing a character as input, you have to enter its character code."}]}
