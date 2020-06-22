@@ -1,0 +1,2 @@
+function bf/mem_reset
+function bf/reset_instr_ptr
