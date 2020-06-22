@@ -1,0 +1,1 @@
+tag @e[tag=instr_ptr] add pause
