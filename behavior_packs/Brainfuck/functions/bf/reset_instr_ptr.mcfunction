@@ -1,4 +1,5 @@
 tag @e[tag=instr_ptr,tag=run] remove run
+tag @e[tag=instr_ptr,tag=pause] remove pause
 tag @e[tag=instr_ptr,tag=at_start] remove at_start
 function bf/instr_ptr_dec
 execute @e[tag=instr_ptr] ~~~ detect ~~-1~ concrete 0 tag @e[tag=instr_ptr] add at_start
