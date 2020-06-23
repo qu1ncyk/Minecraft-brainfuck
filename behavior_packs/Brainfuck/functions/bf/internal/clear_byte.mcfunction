@@ -1,6 +1,6 @@
 #Called by mem_reset
-execute @e[tag=pointer] ~~~ tp ~1~~
-#Move pointer a block
+function bf/pointer_dec
+#Decrement the pointer
 execute @e[tag=pointer] ~~~ fill ~~~1 ~~~8 dirt
 #Clear the byte
 tag @e[tag=pointer,tag=at_start] remove at_start
