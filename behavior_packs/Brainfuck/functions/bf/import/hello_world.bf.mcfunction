@@ -1,4 +1,4 @@
-function bf/reset
+function bf/clear_script
 execute @e[tag=instr_ptr] ~~~ setblock ~-1~-1~ concrete 3
 execute @e[tag=instr_ptr] ~~~ setblock ~-2~-1~ concrete 7
 execute @e[tag=instr_ptr] ~~~ setblock ~-3~-1~ concrete 4

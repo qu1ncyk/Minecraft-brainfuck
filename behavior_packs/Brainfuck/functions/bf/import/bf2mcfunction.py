@@ -3,7 +3,7 @@ import sys
 import os
 
 filename=sys.argv[1]
-mcfunction="function bf/reset"
+mcfunction="function bf/clear_script"
 
 if os.path.isfile(filename):
 	with open(filename) as bf:
