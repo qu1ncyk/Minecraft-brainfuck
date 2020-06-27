@@ -2,3 +2,6 @@
 
 behavior_packs/Brainfuck/functions/bf/print.mcfunction
 behavior_packs/Brainfuck/functions/bf/import/*.bf.mcfunction
+
+Brainfuck beh.mcpack
+Brainfuck res.mcpack
