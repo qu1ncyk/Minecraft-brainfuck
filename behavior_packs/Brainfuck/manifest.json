@@ -4,7 +4,7 @@
     "description": "Brainfuck",
     "name": "Brainfuck",
     "uuid": "c5bb5062-126e-4885-9188-8836784a9652",
-    "version": [1, 0, 8],
+    "version": [1, 0, 0],
     "min_engine_version": [1, 14, 0]
   },
   "modules": [
