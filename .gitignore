@@ -1,0 +1,5 @@
+__pycache__/
+**/__pycache__/
+
+behavior_packs/Brainfuck/functions/bf/print.mcfunction
+behavior_packs/Brainfuck/functions/bf/import/*.bf.mcfunction
