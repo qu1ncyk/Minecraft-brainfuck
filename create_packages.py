@@ -9,7 +9,8 @@ def zip(zipdir, output):
 		for root, dirs, files in os.walk(zipdir):
 			for file in files:
 				if file.endswith((".mcfunction", ".png", ".json", ".lang")):
-					mcpack.write(os.path.join(root, file))
+					filetozip=os.path.join(root, file)
+					mcpack.write(filetozip, filetozip[len(zipdir):])
 
 zip("behavior_packs/Brainfuck", "Brainfuck beh.mcpack")
 zip("resource_packs/Brainfuck", "Brainfuck res.mcpack")
